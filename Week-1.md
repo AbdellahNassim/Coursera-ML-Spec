@@ -18,4 +18,4 @@ This is the starting week of learning [Coursera ML Spec](https://www.coursera.or
 - y-hat is the prediction of y
 - Univariate linear regression: one input variable
 - matplotlib plt : scatter, title, ylabel, xlabel, show
-- 
+- Cost Function: Some of error squared.
