@@ -6,4 +6,6 @@ This is the starting week of learning [Coursera ML Spec](https://www.coursera.or
 ## What is Machine Learning 
 
 - **Machine Learning** is a Field of Study that gives the computers the ability to learn without being explicitly programmed.
+- **Supervised Learning:** a domain of Machine Learning that focuses on predicting outputs (Y Labels) based on input data (X).
+- **Regression:** Predicting a number from infinitely many possible outputs.
 - 
