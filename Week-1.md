@@ -8,4 +8,5 @@ This is the starting week of learning [Coursera ML Spec](https://www.coursera.or
 - **Machine Learning** is a Field of Study that gives the computers the ability to learn without being explicitly programmed.
 - **Supervised Learning:** a domain of Machine Learning that focuses on predicting outputs (Y Labels) based on input data (X).
 - **Regression:** Predicting a number from infinitely many possible outputs.
-- 
+- **Classification:** Predict a category from a finite set of possibilities.
+- **Unsupervised Learning:**  Finding interesting patterns in the unlabeled data.
