@@ -19,3 +19,4 @@ This is the starting week of learning [Coursera ML Spec](https://www.coursera.or
 - Univariate linear regression: one input variable
 - matplotlib plt : scatter, title, ylabel, xlabel, show
 - Cost Function: Some of error squared.
+- Gradient Descent: Batch Gradient Descent.
