@@ -1,2 +1,3 @@
 - Multiple Linear Regression: Linear regression with multiple feature variables
-- Vectorization: 
+- Vectorization: Performing an operation in parallel on an array of data instead of one value at a time
+- 
