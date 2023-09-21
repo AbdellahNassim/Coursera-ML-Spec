@@ -1,4 +1,5 @@
 - Logistic Regression
 - Sigmoid Function / Logistic Function
 - Decision Boundary
+- Logistic Regression Cost Function is not convex
 - 
