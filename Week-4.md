@@ -1,0 +1,6 @@
+- Neurons and the brain
+- Demand Prediction:
+	- Input Layer
+	- Hidden Layer (activations)
+	- Output Layer
+- 
