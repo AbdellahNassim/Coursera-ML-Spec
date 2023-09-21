@@ -2,4 +2,5 @@
 - Sigmoid Function / Logistic Function
 - Decision Boundary
 - Logistic Regression Cost Function is not convex
-- 
+- **Loss** is a measure of the difference of a single example to its target value while the
+- **Cost**  is a measure of the losses over the training set
