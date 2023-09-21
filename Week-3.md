@@ -12,4 +12,5 @@
 	- Get more training data.
 	- See if you can use fewer features => Feature selection.
 	- Regularization: Gently reducing the impact of some of the features
-	- 
+- Regularization
+- 
