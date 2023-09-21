@@ -1,0 +1,3 @@
+- Logistic Regression
+- Sigmoid Function / Logistic Function
+- 
