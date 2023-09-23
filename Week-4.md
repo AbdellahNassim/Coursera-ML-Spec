@@ -6,4 +6,4 @@
 - Activation Function
 - Forward propagation (inference)
 - Data in TensorFlow
-- 
+- Implementation of Forward Prop
