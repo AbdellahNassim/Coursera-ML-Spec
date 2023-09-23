@@ -3,4 +3,6 @@
 	- Input Layer
 	- Hidden Layer (activations)
 	- Output Layer
+- Activation Function
+- Forward propagation (inference)
 - 
