@@ -5,4 +5,5 @@
 	- Output Layer
 - Activation Function
 - Forward propagation (inference)
+- Data in TensorFlow
 - 
