@@ -6,4 +6,5 @@
 	- Regression: Linear
 	- 0 or positive : ReLU
 - Why we need activation functions
-- 
+- Multi-class classification
+- Softmax
