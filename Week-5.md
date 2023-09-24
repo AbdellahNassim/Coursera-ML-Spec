@@ -12,3 +12,5 @@
 - Adam Algorithm: adjusts learning rate to optimize learning performance
 - Additional Layer types : 
 	- Convolutional Layer
+- Backpropagation Algorithm
+- 
