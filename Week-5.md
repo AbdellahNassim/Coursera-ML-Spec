@@ -8,3 +8,7 @@
 - Why we need activation functions
 - Multi-class classification
 - Softmax
+- Advanced Optimization
+- Adam Algorithm: adjusts learning rate to optimize learning performance
+- Additional Layer types : 
+	- Convolutional Layer
