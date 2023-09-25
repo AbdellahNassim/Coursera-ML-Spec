@@ -1,3 +1,5 @@
 - Debugging a Learning Algorithm
 - Splitting Dataset into training set and testing set
+- Model Selection: choosing the right model
+- Training / Cross Validation / Test sets
 - 
