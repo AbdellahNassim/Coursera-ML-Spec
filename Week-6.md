@@ -7,4 +7,8 @@
 - Neural Nets and Bias and Variance
 - Iterative loop of machine learning dev
 - Error Analysis
+- Data Augmentation
+- Transfer Learning
+- Supervised pretraining
+- fine tuning
 - 
