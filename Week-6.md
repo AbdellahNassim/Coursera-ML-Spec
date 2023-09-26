@@ -13,4 +13,6 @@
 - fine tuning
 - Full Cycle of machine learning project
 - MLOps
+- Precision/Recall
+- Confusion Matrix
 - 
