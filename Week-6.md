@@ -4,4 +4,5 @@
 - Training / Cross Validation / Test sets
 - Diagnosing bias and Variance
 - Establishing a baseline level of performance
+- Neural Nets and Bias and Variance
 - 
