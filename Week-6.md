@@ -3,4 +3,5 @@
 - Model Selection: choosing the right model
 - Training / Cross Validation / Test sets
 - Diagnosing bias and Variance
+- Establishing a baseline level of performance
 - 
