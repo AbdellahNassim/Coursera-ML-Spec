@@ -11,4 +11,6 @@
 - Transfer Learning
 - Supervised pretraining
 - fine tuning
+- Full Cycle of machine learning project
+- MLOps
 - 
