@@ -15,4 +15,5 @@
 - MLOps
 - Precision/Recall
 - Confusion Matrix
+- F1-Score : combine precision and recall
 - 
