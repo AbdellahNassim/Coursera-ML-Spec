@@ -7,4 +7,8 @@
 - One-hot encoding
 - Continuous valued features
 - Regression Trees
+- Tree Ensembles
+- Sampling with replacement
+- Random Forest Algorithm
+- XGBoost
 - 
