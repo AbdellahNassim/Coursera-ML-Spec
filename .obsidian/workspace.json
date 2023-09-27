@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ed1db1cb4792e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week-7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week-6.md",
+                "file": "Week-7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week-6.md",
+                "file": "Week-7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week-6.md"
+                "file": "Week-7.md"
               }
             }
           }
@@ -207,10 +219,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75cc76a24bf6358c",
+  "active": "4ed1db1cb4792e5a",
   "lastOpenFiles": [
-    "Week-5.md",
     "Week-6.md",
+    "Week-7.md",
+    "Week-5.md",
     "Week-4.md",
     "Week-3.md",
     "Week-2.md",
