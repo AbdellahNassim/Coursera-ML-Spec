@@ -4,4 +4,5 @@
 - Entropy measure of impurity
 - Choosing a split
 - Information Gain: Reduction in Entropy
+- One-hot encoding
 - 
