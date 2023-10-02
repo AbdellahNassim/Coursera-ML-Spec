@@ -1,0 +1,4 @@
+- Making Recommendations
+- Using per-item features
+- Cost function similar to linear regression
+- 
