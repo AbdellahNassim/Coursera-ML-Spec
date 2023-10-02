@@ -4,4 +4,5 @@
 - Collaborative Filtering Algorithm : x is also a parameter along side w and b
 - Binary labels: fav, likes and clicks
 - Mean Normalization
+- Collaborative filtering using tensorflow
 - 
