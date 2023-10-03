@@ -11,4 +11,5 @@
 - Retrieval and Ranking
 - Ethical use of recommender systems
 - Principal Component Analysis
+- Reconstruction in PCA
 - 
