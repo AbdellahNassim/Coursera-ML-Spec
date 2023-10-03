@@ -10,4 +10,5 @@
 - Recommending from a large catalogue
 - Retrieval and Ranking
 - Ethical use of recommender systems
+- Principal Component Analysis
 - 
