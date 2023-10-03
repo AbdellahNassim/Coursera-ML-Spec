@@ -5,4 +5,9 @@
 - Binary labels: fav, likes and clicks
 - Mean Normalization
 - Collaborative filtering using tensorflow
+- Content-based filtering vs Collaborative filtering
+- Deep Learning for content-based filtering
+- Recommending from a large catalogue
+- Retrieval and Ranking
+- Ethical use of recommender systems
 - 
