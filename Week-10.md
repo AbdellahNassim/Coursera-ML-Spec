@@ -4,4 +4,6 @@
 - Policy: map state s to action a 
 - Markov Decision Process (MDP)
 - Agent, Environment, Policy, Action, State, Reward
+- State-Action value function (Q-function)
+- Bellman Equation
 - 
