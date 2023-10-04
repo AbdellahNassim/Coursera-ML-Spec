@@ -6,4 +6,7 @@
 - Agent, Environment, Policy, Action, State, Reward
 - State-Action value function (Q-function)
 - Bellman Equation
+- Stochastic Env
+- Expected Return : Average of Return
+- 
 - 
