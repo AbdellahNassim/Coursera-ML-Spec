@@ -8,5 +8,10 @@
 - Bellman Equation
 - Stochastic Env
 - Expected Return : Average of Return
-- 
+- Continuous State spaces
+- Replay Buffer
+- DQN
+- epsilon-greedy policy
+- Exploration vs Exploitation (Greedy Action)
+- Mini-batch and soft updates
 - 
