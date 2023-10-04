@@ -1,0 +1,7 @@
+- Reinforcement Learning
+- Return in RL 
+- Discount  factor
+- Policy: map state s to action a 
+- Markov Decision Process (MDP)
+- Agent, Environment, Policy, Action, State, Reward
+- 
