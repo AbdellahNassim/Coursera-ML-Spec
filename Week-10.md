@@ -14,4 +14,4 @@
 - epsilon-greedy policy
 - Exploration vs Exploitation (Greedy Action)
 - Mini-batch and soft updates
-- 
+- Experience Replay
