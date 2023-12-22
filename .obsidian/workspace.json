@@ -126,9 +126,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a22bbd9e82e2304",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -255,7 +265,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc4e2b4d1a6a41b5",
+  "active": "8a22bbd9e82e2304",
   "lastOpenFiles": [
     "Week-9.md",
     "Week-10.md",
